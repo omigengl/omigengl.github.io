@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://omigengl.github.io/sitemap
+Sitemap: https://omigengl.github.io/app/sitemap
+Sitemap: https://omigengl.github.io/assets/sitemap
+Sitemap: https://omigengl.github.io/css/sitemap
+Sitemap: https://omigengl.github.io/includes/sitemap
+Sitemap: https://omigengl.github.io/item/sitemap
+Sitemap: https://omigengl.github.io/src/sitemap
